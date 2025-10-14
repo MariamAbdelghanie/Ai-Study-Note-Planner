@@ -1,1 +1,1 @@
-STUDYNOTE Planner
+STUDY NOTE Planner
