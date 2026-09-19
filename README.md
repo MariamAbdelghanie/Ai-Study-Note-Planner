@@ -29,19 +29,20 @@ Includes AI-powered features for smarter planning and organization.
 4.Run index.php in your browser.
 
 👩‍💻 Contribution
-Fork the repo and create a new branch.
 
-Submit pull requests for review.
+- Fork the repo and create a new branch.
 
-Report issues or suggest improvements.
+- Submit pull requests for review.
+
+- Report issues or suggest improvements.
 
 📜 License
-Open-source project under MIT License.
+- Open-source project under MIT License.
 
 🔮 Future Improvements
-Modern UI with React
+- Modern UI with React
 
-API integration
+- API integration
 
-Mobile-friendly design
+- Mobile-friendly design
 
