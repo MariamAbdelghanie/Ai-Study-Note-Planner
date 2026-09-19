@@ -3,7 +3,7 @@
 A PHP-based web application for managing personal tasks, reminders, and study notes.  
 Includes AI-powered features for smarter planning and organization.
 
-## 🚀 Features
+##  Features
 - User authentication (register, login, logout)
 - Task management (add, update, delete, list)
 - Reminders (create and view)
@@ -11,18 +11,16 @@ Includes AI-powered features for smarter planning and organization.
 - Assign tasks to users
 - MySQL database integration
 
-## 🛠️ Technologies Used
+##  Technologies Used
 - PHP 8+
 - MySQL
 - HTML / CSS
 - AI integration
 
-## 📂 Installation
+##  Installation
 1. Clone the repository:
    ```bash
    git clone https://github.com/MariamAbdelghanie/REPO_NAME.git
-
-git clone https://github.com/MariamAbdelghanie/REPO_NAME.git
 
 2.Import personal_task_db.sql into MySQL.
 
