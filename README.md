@@ -46,3 +46,15 @@ Includes AI-powered features for smarter planning and organization.
 
 - Mobile-friendly design
 
+📸 Screenshots
+
+<img width="511" height="367" alt="image" src="https://github.com/user-attachments/assets/5fd7e913-6aa2-4949-b71e-689bd1af57d5" />
+
+<img width="527" height="295" alt="image" src="https://github.com/user-attachments/assets/788ce74a-3379-4895-96f0-014180d0801a" />
+
+<img width="510" height="361" alt="image" src="https://github.com/user-attachments/assets/0a56eebf-cbe8-46c2-8661-01a65adba6a8" />
+
+
+
+
+
