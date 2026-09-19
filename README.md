@@ -1,25 +1,27 @@
 # Study Note Planner with AI
 
-This project is a **PHP-based web application** designed to help users manage their personal tasks, reminders, and study notes efficiently.  
-It integrates AI-powered features to enhance note planning and organization.
+A PHP-based web application for managing personal tasks, reminders, and study notes.  
+Includes AI-powered features for smarter planning and organization.
 
-##  Features
-- **User Authentication**: Register, login, and logout functionality.
-- **Task Management**: Add, update, delete, and list tasks.
-- **Reminders**: Create and view personal reminders.
-- **Categories**: Organize tasks and notes into categories.
-- **User Assignment**: Assign tasks to specific users.
-- **Database Integration**: MySQL database for storing tasks, reminders, and user information.
+## 🚀 Features
+- User authentication (register, login, logout)
+- Task management (add, update, delete, list)
+- Reminders (create and view)
+- Categories for better organization
+- Assign tasks to users
+- MySQL database integration
 
-##  Technologies Used
-- **PHP 8+**
-- **MySQL**
-- **HTML / CSS**
-- AI integration for smart note planning
+## 🛠️ Technologies Used
+- PHP 8+
+- MySQL
+- HTML / CSS
+- AI integration
 
-##  Installation
+## 📂 Installation
 1. Clone the repository:
    ```bash
+   git clone https://github.com/MariamAbdelghanie/REPO_NAME.git
+
 git clone https://github.com/MariamAbdelghanie/REPO_NAME.git
 
 2.Import personal_task_db.sql into MySQL.
